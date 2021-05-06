@@ -8,7 +8,7 @@ click==7.1.2
 Eve==1.1.1
 Events==0.3
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-SendGrid==0.7.1
 greenlet==0.4.15
 gunicorn==20.0.4
